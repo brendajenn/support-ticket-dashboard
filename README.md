@@ -25,7 +25,7 @@ The goal is to identify trends in issue types, resolution time, and overall supp
 
 ## 📊 Dashboard Preview
 
-[[![Dashboard](dashboard.png)](https://github.com/brendajenn/support-ticket-dashboard/edit/main/README.md)](https://github.com/brendajenn/support-ticket-dashboard/blob/main/image_2026-03-31_064320266.png)
+image_2026-03-31_064320266.png
 
 ---
 
