@@ -25,7 +25,8 @@ The goal is to identify trends in issue types, resolution time, and overall supp
 
 ## 📊 Dashboard Preview
 
-image_2026-03-31_064320266.png
+<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/041a50a9-a5ad-4288-895a-cd94ac567a24" />
+
 
 ---
 
